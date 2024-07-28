@@ -1,0 +1,23 @@
+{
+  "name": "test-workflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "mocha": "^8.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RavDas/test-workflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RavDas/test-workflow/issues"
+  },
+  "homepage": "https://github.com/RavDas/test-workflow#readme"
+}
